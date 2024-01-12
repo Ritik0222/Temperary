@@ -1,3 +1,2 @@
-Hello Coder
-Welcome to Code Crasher
-added the new line
+Hello Coders 
+Welcome to coding 
